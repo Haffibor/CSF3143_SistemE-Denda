@@ -20,10 +20,10 @@
 
 ```
 docs/
-├── meeting-minutes/   # minit mesyuarat
-├── requirements/      # bukti & senarai keperluan
-├── design/            # rajah, wireframe, mockup
-└── reports/           # laporan & final report
+├── meeting-minutes/   # meeting minutes
+├── requirements/      # requirements gathering evidence
+├── design/            # design updates
+└── reports/           # documentation, issues, and task management.
 src/                   # source code
 ```
 
