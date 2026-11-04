@@ -39,3 +39,5 @@ src/                   # source code
 | Milestone 2: System Design  | 19 November 2026, by 5:00 PM| Belum mula |
 | Submission of Final Report  | 24 December 2026, by 5:00 PM| Belum mula |
 | Presentation  | 3 – 7 January 2027 |  |
+
+![My Profile](DSC_0030.JPG)
