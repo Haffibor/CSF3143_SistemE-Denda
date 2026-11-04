@@ -1,6 +1,6 @@
 # SISTEM E-DENDA
 
-...
+Sistem e-Denda is an online fine management system developed for residential colleges to streamline the disciplinary penalty process
 
 ## Course Information
 - **Course  :** CSF3143 Basic Software Engineering
@@ -24,7 +24,6 @@ docs/
 ├── requirements/      # requirements gathering evidence
 ├── design/            # design updates
 └── reports/           # documentation, issues, and task management.
-src/                   # source code
 ```
 
 ## Project Management
@@ -39,5 +38,3 @@ src/                   # source code
 | Milestone 2: System Design  | 19 November 2026, by 5:00 PM| Belum mula |
 | Submission of Final Report  | 24 December 2026, by 5:00 PM| Belum mula |
 | Presentation  | 3 – 7 January 2027 |  |
-
-<img src="./DSC_0030.JPG"width="100">
