@@ -40,4 +40,4 @@ src/                   # source code
 | Submission of Final Report  | 24 December 2026, by 5:00 PM| Belum mula |
 | Presentation  | 3 – 7 January 2027 |  |
 
-<img src="DSC_0030.JPG"width="100">
+<img src="./DSC_0030.JPG"width="100">
