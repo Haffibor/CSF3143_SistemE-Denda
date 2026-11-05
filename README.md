@@ -11,10 +11,10 @@ Sistem e-Denda is an online fine management system developed for residential col
 
 | Name | No. matrik | Role | GitHub |
 |------|-----------|---------|--------|
-| NUR ALYA BATRISYIA BT MOHD KHAIRUL ALISAN | S85579 | Ketua pasukan | @lyabtrsyy |
-| NUR KYRA MIZA BINTI MOHD NAHAR | S85017 | Ahli | @KyraMiza04 |
-| NUR AINA BINTI MOHAMMAD AZIHAN | S86627 | Ahli | @aiynanur |
-| NURHAFIZAH BINTI MAHMUDA | S85571 | Ahli | @Haffibor |
+| NUR ALYA BATRISYIA BT MOHD KHAIRUL ALISAN | S85579 | Project Leader | @lyabtrsyy |
+| NUR KYRA MIZA BINTI MOHD NAHAR | S85017 | System Analyst | @KyraMiza04 |
+| NUR AINA BINTI MOHAMMAD AZIHAN | S86627 | Data Analyst | @aiynanur |
+| NURHAFIZAH BINTI MAHMUDA | S85571 | UI Designer | @Haffibor |
 
 ## Repository Structure
 
@@ -34,7 +34,7 @@ docs/
 
 | Activity | Deadline | Status |
 |------|-------------|--------|
-| Milestone 1: Requirements & Use Case Model  | 5 November 2026, by 5:00 PM | Dalam proses |
+| Milestone 1: Requirements & Use Case Model  | 5 November 2026, by 5:00 PM | Done |
 | Milestone 2: System Design  | 19 November 2026, by 5:00 PM| Belum mula |
 | Submission of Final Report  | 24 December 2026, by 5:00 PM| Belum mula |
 | Presentation  | 3 – 7 January 2027 |  |
